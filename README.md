@@ -2,6 +2,10 @@
 
 ##android二维码:     
 
+<p align="center" >
+  <img src="http://healthy.chinacloudapp.cn:8080/androidqr.jpg" alt="AFNetworking" title="AFNetworking">
+</p>
+
 ###更新日志
    
 ##2015.12.16    
