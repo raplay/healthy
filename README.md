@@ -3,7 +3,7 @@
 ##android二维码:     
 
 <p align="center" >
-  <img src="http://healthy.chinacloudapp.cn:8080/androidqr.jpg" alt="AFNetworking" title="AFNetworking">
+  <img src="https://raw.githubusercontent.com/raplay/healthy/master/androidqr.jpg" alt="android二维码" title="android二维码">
 </p>
 
 ###更新日志
